@@ -1,6 +1,6 @@
 {
-  "maintenance": true,
+  "maintenance": false,
   "message": "OK",
   "min_version_code": 1,
-  "config_rev": 107
+  "config_rev": 108
 }
